@@ -16,8 +16,8 @@ public class Banco {
 		Pessoa novaPessoa = new Pessoa("André", 18, 1000, "06408688990");
 		System.out.println(novaPessoa.getNome());
 		System.out.println(novaPessoa.getIDade());
-    System.out.println(novaPessoa.getRenda());
-    System.out.println(novaPessoa.getCpf());
+		System.out.println(novaPessoa.getRenda());
+		System.out.println(novaPessoa.getCpf());
 	}	
 }
 	
